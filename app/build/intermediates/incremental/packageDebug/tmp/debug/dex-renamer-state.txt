@@ -1,0 +1,7 @@
+#Tue Apr 03 15:01:01 GMT+03:00 2018
+base.0=C\:\\Users\\julia.gorelikova\\Downloads\\Telegram Desktop\\Musicalapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\julia.gorelikova\\Downloads\\Telegram Desktop\\Musicalapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
