@@ -7,23 +7,19 @@ public class Book {
     private String author;
 //    genre of the book(for e.x. detective, novel and etc)
     private String genre;
-/** century of creation of the book */
-    private int century;
 
     /**
     * Create a new Book object
     * @param name is the name of the book
      *@param author is the author of the book
      *@param genre is the genre of the book
-     *@param century is the century when the book was written
      *
     */
 
-    public Book(String name, String author, String genre, int century){
+    public Book(String name, String author, String genre){
         this.name = name;
         this.author = author;
         this.genre = genre;
-        this.century = century;
     }
 
     /**
@@ -57,9 +53,6 @@ public class Book {
      * @return century when the book was written
      */
 
-    public String getCentury(){
-        return century + "th Century";
-    }
 
 
 
