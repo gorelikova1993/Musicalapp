@@ -21,5 +21,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/genre_text_view"
         tools:text="2222"/>
-
+<!--TODO Name of the book Bold, author cursive smaller, genre smaller usual-->
 </LinearLayout>

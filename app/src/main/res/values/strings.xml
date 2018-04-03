@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Audio books</string>
+    <string name="app_name">Audiobooks</string>
+    <string name="about_app">This app is created to represent the most popular books of different countries.\nSelect a country whose literature you would like to explore.</string>
 </resources>

@@ -1,8 +1,8 @@
 package com.example.juliagorelikova.musicalapp;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView russiatextView = (TextView)findViewById(R.id.russia_text_view);
+        TextView russiatextView = (TextView) findViewById(R.id.russia_text_view);
         russiatextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        TextView germanyTextView = (TextView)findViewById(R.id.germany_text_view);
+        TextView germanyTextView = (TextView) findViewById(R.id.germany_text_view);
         germanyTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        TextView franceTextView = (TextView)findViewById(R.id.france_text_view);
+        TextView franceTextView = (TextView) findViewById(R.id.france_text_view);
         franceTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

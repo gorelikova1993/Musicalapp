@@ -16,15 +16,15 @@ public class FranceActivity extends AppCompatActivity {
         ArrayList<Book> books = new ArrayList<Book>();
         books.add(new Book("La Peau de chagrin", "Honoré de Balzac", "Novel"));
         books.add(new Book("Dangerous Liaisons", "Pierre Choderlos de Laclos", "Epistolary novel"));
-        books.add(new Book("The Three Musketeers","Alexandre Dumas", "Historical novel"));
-        books.add(new Book("The Little Prince","Antoine de Saint-Exupéry", "Novella"));
+        books.add(new Book("The Three Musketeers", "Alexandre Dumas", "Historical novel"));
+        books.add(new Book("The Little Prince", "Antoine de Saint-Exupéry", "Novella"));
         books.add(new Book("Madame Bovary", "Gustave Flaubert", "Realist novel"));
         books.add(new Book("Bel Ami", "Guy de Maupassant", "Novel"));
         books.add(new Book("Les Misérables", "Victor Hugo", "Historical novel"));
         books.add(new Book("The Hunchback of Notre-Dame", "Victor Hugo", "Gothic fiction"));
 
         BookAdapter adapter = new BookAdapter(this, books);
-        ListView listView = (ListView)findViewById(R.id.list);
+        ListView listView = (ListView) findViewById(R.id.list);
         listView.setAdapter(adapter);
     }
 }

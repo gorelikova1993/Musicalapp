@@ -25,6 +25,10 @@
         <activity
             android:name=".GermanyActivity"
             android:label="Germany literature"></activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

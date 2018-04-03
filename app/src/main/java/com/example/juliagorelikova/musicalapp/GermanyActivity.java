@@ -7,7 +7,7 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class GermanyActivity extends AppCompatActivity{
+public class GermanyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,10 +20,10 @@ public class GermanyActivity extends AppCompatActivity{
         books.add(new Book("Faust", "Johann Wolfgang von Goethe", "Tragic play"));
         books.add(new Book("The Reader", "Bernhard Schlink", "Novel"));
         books.add(new Book("Perfume: The Story of a Murderer", "Patrick Süskind", "Horror fiction"));
-        books.add(new Book("The clown","Heinrich Böll", "Novel"));
+        books.add(new Book("The clown", "Heinrich Böll", "Novel"));
 
         BookAdapter adapter = new BookAdapter(this, books);
-        ListView listView = (ListView)findViewById(R.id.list);
+        ListView listView = (ListView) findViewById(R.id.list);
         listView.setAdapter(adapter);
     }
 }
