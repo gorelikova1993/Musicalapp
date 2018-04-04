@@ -1,121 +1,127 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a599d7433f1ea51dc366731030b63743\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e88791e0ef3d8096b2f2438d519f7fa4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e91a17c8173d5fbbb0f3b82636299e18\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6050c03255c71525db3b46853ab972d4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d3268bc38596d840eed4176e60f56cdd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4f28edb23ec075c7987e3532263e7b5e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a888f12ed402834b2df347c93b8548f2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6afc38b86d70925fcd4d935823e99c19\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3315218a29899ac31f8d145bfe240c2d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08a434b49b9d4ece635b308d4e88c3b4\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1e1b62238f6db1bec0b00cfc91c8f89\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\772bb19ca13108887010546f7d21786c\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8777ec51f703cf80db45e1712637f7cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b8415e3894dc65e323aab2862435992e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3b001a6e690885a1f236d72fdc0fab9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e6d845faf7723c897e5ebbf74b780adc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\850af9528ee54580a9f0a63f86fd3af3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\729e52ce543dd2e44035664a44a4f0a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\91d9d47fb8836d286da7dcdbf77f9fb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4f1a51e653b5120d8a8c3d440b457c94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a0fa9799a0d451adc875139311d100e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b68edda725d0620f83889decb7b5060e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\182eb72804cba214a5e3f83d35c90d6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18fb3c5fcebcb5ebcd1c0193f8daa66d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:3:5-53
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:5:5-28:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e88791e0ef3d8096b2f2438d519f7fa4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e88791e0ef3d8096b2f2438d519f7fa4\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b8415e3894dc65e323aab2862435992e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b8415e3894dc65e323aab2862435992e\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.juliagorelikova.musicalapp.MainActivity
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.juliagorelikova.musicalapp.RussiaActivity
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:19:9-21:59
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:19:9-21:59
 	android:label
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:21:13-47
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:21:13-47
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:20:13-43
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:20:13-43
 activity#com.example.juliagorelikova.musicalapp.FranceActivity
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:22:9-24:58
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:22:9-24:58
 	android:label
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:24:13-46
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:24:13-46
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:23:13-43
 activity#com.example.juliagorelikova.musicalapp.GermanyActivity
-ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:25:9-27:59
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:25:9-27:59
 	android:label
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:27:13-47
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:27:13-47
 	android:name
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:26:13-44
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:26:13-44
+meta-data#preloaded_fonts
+ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:29:9-31:57
+	android:resource
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:31:13-54
+	android:name
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml:30:13-43
 uses-sdk
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a599d7433f1ea51dc366731030b63743\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a599d7433f1ea51dc366731030b63743\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e88791e0ef3d8096b2f2438d519f7fa4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e88791e0ef3d8096b2f2438d519f7fa4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e91a17c8173d5fbbb0f3b82636299e18\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e91a17c8173d5fbbb0f3b82636299e18\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6050c03255c71525db3b46853ab972d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6050c03255c71525db3b46853ab972d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d3268bc38596d840eed4176e60f56cdd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d3268bc38596d840eed4176e60f56cdd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4f28edb23ec075c7987e3532263e7b5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4f28edb23ec075c7987e3532263e7b5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a888f12ed402834b2df347c93b8548f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a888f12ed402834b2df347c93b8548f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6afc38b86d70925fcd4d935823e99c19\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6afc38b86d70925fcd4d935823e99c19\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3315218a29899ac31f8d145bfe240c2d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3315218a29899ac31f8d145bfe240c2d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08a434b49b9d4ece635b308d4e88c3b4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08a434b49b9d4ece635b308d4e88c3b4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1e1b62238f6db1bec0b00cfc91c8f89\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1e1b62238f6db1bec0b00cfc91c8f89\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\772bb19ca13108887010546f7d21786c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yulia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\772bb19ca13108887010546f7d21786c\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8777ec51f703cf80db45e1712637f7cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8777ec51f703cf80db45e1712637f7cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b8415e3894dc65e323aab2862435992e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b8415e3894dc65e323aab2862435992e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3b001a6e690885a1f236d72fdc0fab9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3b001a6e690885a1f236d72fdc0fab9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e6d845faf7723c897e5ebbf74b780adc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e6d845faf7723c897e5ebbf74b780adc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\850af9528ee54580a9f0a63f86fd3af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\850af9528ee54580a9f0a63f86fd3af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\729e52ce543dd2e44035664a44a4f0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\729e52ce543dd2e44035664a44a4f0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\91d9d47fb8836d286da7dcdbf77f9fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\91d9d47fb8836d286da7dcdbf77f9fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4f1a51e653b5120d8a8c3d440b457c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4f1a51e653b5120d8a8c3d440b457c94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a0fa9799a0d451adc875139311d100e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a0fa9799a0d451adc875139311d100e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b68edda725d0620f83889decb7b5060e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b68edda725d0620f83889decb7b5060e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\182eb72804cba214a5e3f83d35c90d6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\182eb72804cba214a5e3f83d35c90d6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18fb3c5fcebcb5ebcd1c0193f8daa66d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\julia.gorelikova\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18fb3c5fcebcb5ebcd1c0193f8daa66d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\yulia\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\julia.gorelikova\AndroidStudioProjects\Musicalapp\app\src\main\AndroidManifest.xml
