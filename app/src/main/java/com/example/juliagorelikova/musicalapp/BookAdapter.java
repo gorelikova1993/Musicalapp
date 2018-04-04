@@ -47,7 +47,6 @@ public class BookAdapter extends ArrayAdapter<Book> {
         TextView genreTextView = (TextView) listItemView.findViewById(R.id.genre_text_view);
         genreTextView.setText(currentBook.getGenre());
 
-
         return listItemView;
 
 

@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
-    <TextView
-        android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/padding_linear_layout">
+
+    <LinearLayout
+        android:id="@+id/main_text"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/name_text_view"
-        tools:text="2222"/>
-    <TextView
-        android:layout_width="match_parent"
+        android:layout_weight="4"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
+            android:fontFamily="cursive"
+            android:textColor="@color/text_color"
+            android:textSize="25sp"
+            tools:text="Anna Karenina" />
+
+        <TextView
+            android:id="@+id/author_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
+            android:fontFamily="@font/alike_angular"
+            android:textColor="@color/text_color"
+            android:textSize="15sp"
+            tools:text="Leo Tolstoy" />
+
+        <TextView
+            android:id="@+id/genre_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
+            android:fontFamily="@font/alike_angular"
+            android:textColor="@color/text_color"
+            android:textSize="15sp"
+            tools:text="Drama" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/author_text_view"
-        tools:text="2222"/>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/genre_text_view"
-        tools:text="2222"/>
-<!--TODO Name of the book Bold, author cursive smaller, genre smaller usual-->
+        android:layout_alignRight="@+id/main_text"
+        android:layout_marginTop="@dimen/list_item_image_margin_top"
+        android:layout_weight="1"
+        android:src="@drawable/ic_play_arrow_black_24dp" />
 </LinearLayout>
