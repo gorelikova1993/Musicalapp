@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -15,11 +16,10 @@
 
         <TextView
             android:id="@+id/name_text_view"
+            style="@style/list_item"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
             android:fontFamily="cursive"
-            android:textColor="@color/text_color"
             android:textSize="25sp"
             tools:text="Anna Karenina" />
 
@@ -27,20 +27,14 @@
             android:id="@+id/author_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
-            android:fontFamily="@font/alike_angular"
-            android:textColor="@color/text_color"
-            android:textSize="15sp"
+            style="@style/list_item"
             tools:text="Leo Tolstoy" />
 
         <TextView
             android:id="@+id/genre_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/list_item_textview_margin_bottom"
-            android:fontFamily="@font/alike_angular"
-            android:textColor="@color/text_color"
-            android:textSize="15sp"
+            style="@style/list_item"
             tools:text="Drama" />
     </LinearLayout>
 
@@ -50,5 +44,7 @@
         android:layout_alignRight="@+id/main_text"
         android:layout_marginTop="@dimen/list_item_image_margin_top"
         android:layout_weight="1"
+        android:contentDescription="@string/play_book"
         android:src="@drawable/ic_play_arrow_black_24dp" />
+
 </LinearLayout>

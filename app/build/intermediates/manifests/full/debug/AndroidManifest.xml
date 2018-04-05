@@ -26,13 +26,16 @@
         </activity>
         <activity
             android:name="com.example.juliagorelikova.musicalapp.RussiaActivity"
-            android:label="Russian literature" />
+            android:label="@string/Russia_l"
+            android:parentActivityName="com.example.juliagorelikova.musicalapp.MainActivity" />
         <activity
             android:name="com.example.juliagorelikova.musicalapp.FranceActivity"
-            android:label="French literature" />
+            android:label="@string/French_l"
+            android:parentActivityName="com.example.juliagorelikova.musicalapp.MainActivity" />
         <activity
             android:name="com.example.juliagorelikova.musicalapp.GermanyActivity"
-            android:label="Germany literature" />
+            android:label="@string/Germany_l"
+            android:parentActivityName="com.example.juliagorelikova.musicalapp.GermanyActivity" />
 
         <meta-data
             android:name="preloaded_fonts"

@@ -12,19 +12,21 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".RussiaActivity"
-            android:label="Russian literature"></activity>
+            android:label="@string/Russia_l"
+            android:parentActivityName=".MainActivity"></activity>
         <activity
             android:name=".FranceActivity"
-            android:label="French literature"></activity>
+            android:label="@string/French_l"
+            android:parentActivityName=".MainActivity"></activity>
         <activity
             android:name=".GermanyActivity"
-            android:label="Germany literature"></activity>
+            android:label="@string/Germany_l"
+            android:parentActivityName=".GermanyActivity"></activity>
 
         <meta-data
             android:name="preloaded_fonts"

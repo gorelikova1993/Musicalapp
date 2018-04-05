@@ -4,4 +4,8 @@
     <string name="country_r">Russia</string>
     <string name="country_g">Germany</string>
     <string name="country_f">France</string>
+    <string name="play_book">Play</string>
+    <string name="Russia_l">Russian literature</string>
+    <string name="Germany_l">Germany literature</string>
+    <string name="French_l">French literature</string>
 </resources>

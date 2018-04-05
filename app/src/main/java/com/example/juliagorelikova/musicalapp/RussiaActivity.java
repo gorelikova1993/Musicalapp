@@ -13,6 +13,7 @@ public class RussiaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.book_list);
 
+
         //Create a list of books
         ArrayList<Book> books = new ArrayList<Book>();
         books.add(new Book("War and Peace", "Leo Tolstoy", "Historical novel"));
